@@ -1,0 +1,27 @@
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe.config
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csprojResolveAssemblyReference.cache
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Form1.resources
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Properties.Resources.resources
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csproj.GenerateResource.Cache
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\bin\Debug\salvar imagem.pdb
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar imagem.exe
+C:\Users\notebook\Desktop\salvar imagem\salvar imagem\obj\Debug\salvar imagem.pdb
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe.config
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.exe
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.pdb
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csprojResolveAssemblyReference.cache
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Form1.resources
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Properties.Resources.resources
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csproj.GenerateResource.Cache
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe
+D:\one drive etec\OneDrive - Etec Centro Paula Souza\2018\disciplinas\planejamento de tcc\2018 noite\exemplos de programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.pdb
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe.config
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.exe
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.pdb
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csprojResolveAssemblyReference.cache
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Form1.resources
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar_imagem.Properties.Resources.resources
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\obj\Debug\salvar imagem.csproj.GenerateResource.Cache
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.exe
+D:\one drive\OneDrive - Etec Centro Paula Souza\2019\disciplinas\tecnico em informatica\planejamento e desenvolvimento de tcc\exemplo programação\salvar imagem\salvar imagem\bin\Debug\salvar imagem.pdb
